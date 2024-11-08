@@ -1,4 +1,5 @@
 // src/hello.c
+#include <stdio.h>
 #include "funcs.h"
 
 void print_hello() {

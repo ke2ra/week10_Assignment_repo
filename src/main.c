@@ -1,4 +1,5 @@
 // src/main.c
+#include <stdio.h>
 #include "funcs.h"
 
 int main() {
